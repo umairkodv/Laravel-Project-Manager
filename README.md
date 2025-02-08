@@ -41,7 +41,7 @@ All this made with the best technologies.
 - MySQL 8+
 - [Pusher](https://pusher.com/) account
 
-## Screenshots
+## Screenshots Of the Project For Better Understanding
 
 <div>
     <img src="github-contents/1.png" width="20%"></img> 
