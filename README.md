@@ -72,10 +72,6 @@ All this made with the best technologies.
     <img src="github-contents/26.png" width="20%"></img> 
 </div>
 
-## Documentation
-
-Full documentation can be viewed online: [Docs](https://devaslanphp.github.io/project-management)
-
 ## Work in progress
 
 We are always working to make Project Management a better application, all contributions are welcome.
