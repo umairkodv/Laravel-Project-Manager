@@ -34,7 +34,7 @@ Helper, is a great tool if you want to manage your projects, tickets and be here
 It comes also with more than 60 languages ready to use.
 
 All this made with the best technologies.
-
+  
 ## Prerequisites
 
 - PHP 8+
